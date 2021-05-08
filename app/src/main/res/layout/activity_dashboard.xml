@@ -48,7 +48,7 @@
                         android:textSize="16sp"
                         android:layout_marginLeft="20dp"
                         android:gravity="left"
-                        android:text="Title"
+                        android:text="Main Ingredients"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
 
@@ -59,7 +59,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:gravity="left"
-                        android:text="Title"
+                        android:text="chicken,beef,fish etc.."
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
 
@@ -71,7 +71,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:gravity="left"
-                        android:text="Total count is 20"
+                        android:text="Total count is 9"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"/>
 
@@ -121,7 +121,7 @@
                         android:textSize="16sp"
                         android:layout_marginLeft="20dp"
                         android:gravity="left"
-                        android:text="Title"
+                        android:text="Weight-loss Diet"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
 
@@ -132,7 +132,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:gravity="left"
-                        android:text="Title"
+                        android:text="keto,low carb, etc..."
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
 
@@ -144,7 +144,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:gravity="left"
-                        android:text="Total count is 20"
+                        android:text="Total count is 4"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"/>
 

@@ -58,10 +58,10 @@ public class MainActivity extends AppCompatActivity {
     }
     private void recipe1() {
 
-        constantList.add(new Constant(R.drawable.p1,"biryani","", ""));
-        constantList.add(new Constant(R.drawable.p2,"parota","", ""));
-        constantList.add(new Constant(R.drawable.p3,"aloo mutter","", ""));
-        constantList.add(new Constant(R.drawable.p4,"gobi","", ""));
-        constantList.add(new Constant(R.drawable.p5,"friedrice","", ""));
+        constantList.add(new Constant(R.drawable.chicken,"Classic Chicken Broast","", ""));
+        constantList.add(new Constant(R.drawable.afghani,"Afghani Pulov","", ""));
+        constantList.add(new Constant(R.drawable.lemonpepper,"Lemon Pepper Chicken Wings","", ""));
+        constantList.add(new Constant(R.drawable.keto,"Keto Chicken Salad","", ""));
+
     }
 }

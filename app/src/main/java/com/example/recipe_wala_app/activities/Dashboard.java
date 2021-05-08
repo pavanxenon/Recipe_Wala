@@ -47,17 +47,20 @@ public class Dashboard extends AppCompatActivity {
     void addImages()
     {
         slideModelList=new ArrayList<>();
-        slideModelList.add(new SlideModel(R.drawable.p1, "Rice recipes", ScaleTypes.CENTER_CROP ));
-        slideModelList.add(new SlideModel(R.drawable.p2, "chicken recipes", ScaleTypes.CENTER_CROP ));
-        slideModelList.add(new SlideModel(R.drawable.p3, "seafood recipes", ScaleTypes.CENTER_CROP ));
-        slideModelList.add(new SlideModel(R.drawable.p4, "roll recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList.add(new SlideModel(R.drawable.chicken, "Chicken recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList.add(new SlideModel(R.drawable.beef, "Beef recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList.add(new SlideModel(R.drawable.egg, "Egg recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList.add(new SlideModel(R.drawable.pasta, "Pasta recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList.add(new SlideModel(R.drawable.p1, "Lentil recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList.add(new SlideModel(R.drawable.p2, "Broccoli recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList.add(new SlideModel(R.drawable.p4, "Spinach recipes", ScaleTypes.CENTER_CROP ));
         imageSlider.setImageList(slideModelList,ScaleTypes.FIT);
 
         slideModelList1=new ArrayList<>();
-        slideModelList1.add(new SlideModel(R.drawable.p1, "Rice recipes", ScaleTypes.CENTER_CROP ));
-        slideModelList1.add(new SlideModel(R.drawable.p2, "chicken recipes", ScaleTypes.CENTER_CROP ));
-        slideModelList1.add(new SlideModel(R.drawable.p3, "seafood recipes", ScaleTypes.CENTER_CROP ));
-        slideModelList1.add(new SlideModel(R.drawable.p4, "roll recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList1.add(new SlideModel(R.drawable.p3, "Mediterranean recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList1.add(new SlideModel(R.drawable.p5, "Salad recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList1.add(new SlideModel(R.drawable.p6, "Keto recipes", ScaleTypes.CENTER_CROP ));
+        slideModelList1.add(new SlideModel(R.drawable.p4, "Low Carb recipes", ScaleTypes.CENTER_CROP ));
         imageSlider1.setImageList(slideModelList1,ScaleTypes.FIT);
     }
 
