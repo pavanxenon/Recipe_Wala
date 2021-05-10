@@ -48,7 +48,7 @@
                         android:textSize="16sp"
                         android:layout_marginLeft="20dp"
                         android:gravity="left"
-                        android:text="Main Ingredients"
+                        android:text="MAIN INGREDIENTS"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
 
@@ -71,7 +71,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:gravity="left"
-                        android:text="Total count is 9"
+                        android:text="Total count is 15"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"/>
 
@@ -121,7 +121,7 @@
                         android:textSize="16sp"
                         android:layout_marginLeft="20dp"
                         android:gravity="left"
-                        android:text="Weight-loss Diet"
+                        android:text="WEIGHT-LOSS DIET"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
 
@@ -150,6 +150,298 @@
 
                     <Button
                         android:id="@+id/recipe2"
+                        android:onClick="ViewAll"
+                        android:layout_marginTop="22dp"
+                        android:background="@drawable/view_all_button"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:text="View All"
+                        android:layout_gravity="center"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"/>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_margin="20dp"
+                app:cardElevation="8dp"
+                app:cardCornerRadius="12dp"
+                android:layout_width="match_parent"
+                android:layout_height="380dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.denzcoskun.imageslider.ImageSlider
+                        android:layout_margin="20dp"
+                        android:id="@+id/image_slider2"
+                        android:layout_width="match_parent"
+                        android:layout_height="160dp"
+                        app:iss_auto_cycle="true"
+                        app:iss_period="1000"
+                        app:iss_delay="0"/>
+
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textStyle="bold"
+                        android:textSize="16sp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="left"
+                        android:text="CUISINE"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Indian,American,Chinese, etc..."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:padding="6dp"
+                        android:background="@drawable/total_count_button"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Total count is 11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <Button
+                        android:id="@+id/recipe3"
+                        android:onClick="ViewAll"
+                        android:layout_marginTop="22dp"
+                        android:background="@drawable/view_all_button"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:text="View All"
+                        android:layout_gravity="center"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"/>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_margin="20dp"
+                app:cardElevation="8dp"
+                app:cardCornerRadius="12dp"
+                android:layout_width="match_parent"
+                android:layout_height="380dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.denzcoskun.imageslider.ImageSlider
+                        android:layout_margin="20dp"
+                        android:id="@+id/image_slider3"
+                        android:layout_width="match_parent"
+                        android:layout_height="160dp"
+                        app:iss_auto_cycle="true"
+                        app:iss_period="1000"
+                        app:iss_delay="0"/>
+
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textStyle="bold"
+                        android:textSize="16sp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="left"
+                        android:text="OCCASION"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Special,Casual,Weekend, etc..."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:padding="6dp"
+                        android:background="@drawable/total_count_button"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Total count is 10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <Button
+                        android:id="@+id/recipe4"
+                        android:onClick="ViewAll"
+                        android:layout_marginTop="22dp"
+                        android:background="@drawable/view_all_button"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:text="View All"
+                        android:layout_gravity="center"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"/>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_margin="20dp"
+                app:cardElevation="8dp"
+                app:cardCornerRadius="12dp"
+                android:layout_width="match_parent"
+                android:layout_height="380dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.denzcoskun.imageslider.ImageSlider
+                        android:layout_margin="20dp"
+                        android:id="@+id/image_slider4"
+                        android:layout_width="match_parent"
+                        android:layout_height="160dp"
+                        app:iss_auto_cycle="true"
+                        app:iss_period="1000"
+                        app:iss_delay="0"/>
+
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textStyle="bold"
+                        android:textSize="16sp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="left"
+                        android:text="DESSERTS"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Mizu Yokan,Blueberry Lemonade Pie,etc..."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:padding="6dp"
+                        android:background="@drawable/total_count_button"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Total count is 4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <Button
+                        android:id="@+id/recipe5"
+                        android:onClick="ViewAll"
+                        android:layout_marginTop="22dp"
+                        android:background="@drawable/view_all_button"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:text="View All"
+                        android:layout_gravity="center"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"/>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_margin="20dp"
+                app:cardElevation="8dp"
+                app:cardCornerRadius="12dp"
+                android:layout_width="match_parent"
+                android:layout_height="380dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.denzcoskun.imageslider.ImageSlider
+                        android:layout_margin="20dp"
+                        android:id="@+id/image_slider5"
+                        android:layout_width="match_parent"
+                        android:layout_height="160dp"
+                        app:iss_auto_cycle="true"
+                        app:iss_period="1000"
+                        app:iss_delay="0"/>
+
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textStyle="bold"
+                        android:textSize="16sp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="left"
+                        android:text="DRINKS"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+
+                    <TextView
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Rose Simple Syrup,Original Irish Coffee,etc..."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:padding="6dp"
+                        android:background="@drawable/total_count_button"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="left"
+                        android:text="Total count is 4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <Button
+                        android:id="@+id/recipe6"
                         android:onClick="ViewAll"
                         android:layout_marginTop="22dp"
                         android:background="@drawable/view_all_button"

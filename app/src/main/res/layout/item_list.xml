@@ -21,7 +21,7 @@
 
             <ImageView
                 android:alpha="0.6"
-                android:scaleType="center"
+                android:scaleType="fitCenter"
                 android:background="@drawable/p1"
                 android:id="@+id/thumbnail"
                 android:layout_width="wrap_content"

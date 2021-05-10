@@ -5,14 +5,14 @@ public class Constant
 {
     int image;
     String title;
-    String ingredients;
-    String steps;
+    String ingredient;
+    String recipe;
 
-    public Constant(int image, String title, String ingredients, String steps) {
+    public Constant(int image, String title, String ingredient, String recipe) {
         this.image = image;
         this.title = title;
-        this.ingredients = ingredients;
-        this.steps = steps;
+        this.ingredient = ingredient;
+        this.recipe = recipe;
     }
 
     public int getImage() {
@@ -23,11 +23,7 @@ public class Constant
         return title;
     }
 
-    public String getIngredients() {
-        return ingredients;
-    }
+    public String getIngredient() { return ingredient; }
 
-    public String getSteps() {
-        return steps;
-    }
+    public String getRecipe() { return recipe; }
 }

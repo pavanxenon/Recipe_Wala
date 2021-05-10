@@ -1,3 +1,1306 @@
 <resources>
     <string name="app_name">Recipe_Wala_App</string>
+
+    <string name="t1">CLASSIC CHICKEN BROAST</string>
+
+    <string name="i1">
+        Chicken 1kg (8-10 pieces) \n
+        Chili sauce 2 tbsp \n
+        Soya sauce 2 tbsp \n
+        Crushed red chili 1 tbsp \n
+        Brown sugar 1 tsp\n
+        Crushed black pepper 1 tsp\n
+        Ginger garlic paste 1 tbsp\n
+        Chinese salt ½ tsp\n
+        Salt ½ tsp\n
+        Corn flour ½ cup\n
+        Flour ½ cup\n
+        Cold water 2 cup\n
+        Oil for frying\n
+    </string>
+
+    <string name="r1">
+        •	Marinate chicken with chili sauce, soya sauce, crushed red chilies, brown sugar, crushed black pepper, ginger garlic paste, Chinese salt, and salt and leave it for an hour.\n
+        •	Now mix corn flour and flour in a bowl. Coat marinated chicken in it and put into cold water. Repeat once and freeze it.\n
+        •	When you want to fry, take out from freezer and deep fry chicken\n
+    </string>
+
+    <string name="t2">AFGHANI PULAO </string>
+    <string name="i2">
+        Chicken 1 kg\n
+        Rice 4 cups (soaked for half an hour)\n
+        Oil ½ cup\n
+        Ginger garlic paste 3 tbsp\n
+        Onion ½ kg\n
+        Carrot 1\n
+        Salt to taste\n
+        Allspice 3 tbsp\n
+        White vinegar 2 tbsp\n
+
+    </string>
+    <string name="r2">
+        •	Chop onions and saute in hot oil till golden brown.\n
+
+•	Now add chicken, ginger garlic paste and salt, stir fry for 5-6 minutes.\n
+
+•	Add 1 cup of water and cook on low flame till the chicken is tender.\n
+
+•	In a big pan boil sufficient water with some salt.\n
+
+•	When the water comes to a boil, add rice and cook till half done.\n
+
+•	Sieve and put aside.\n
+
+•	Now grind the allspice and roughly-slice the carrot.\n
+
+•	Fry the carrot in a little oil for 1 minute and keep aside.\n
+
+•	Arrange half the boiled rice in a large pan, top it with cooked chicken, sprinkle crushed allspice.\n
+
+•	Now add another layer of rice, sprinkle allspice, cover and put on low flame for 10 minutes.\n
+
+•	When the pilaf is ready garnish with fried carrots and serve.\n
+
+    </string>
+
+    <string name="t3">LEMON PEPPER CHICKEN WINGS</string>
+    <string name="i3">
+        485 grams Chicken Wings This was 7 full wings for me\n
+1 Tbsp olive oil\n
+1/2 Tbsp Lemon pepper seasoning\n
+50 grams Cheese\n
+50 grams Heavy Whipping Cream\n
+5 grams Minced Garlic\n
+ Salt and Pepper to taste\n
+ Green part of a spring onion\n
+
+    </string>
+    <string name="r3">
+        •	Marinate the wings with the olive oil and lemon pepper seasoning and let it marinate for 20 minutes\n
+•	Deep fry the wings till nice and gold brown, crispy and cooked fully. This normally takes 5 minutes or so (depending on the size of the wing) and drain of paper towels.\n
+•	Mix the cream, cheese, garlic, salt and pepper in a bowl and microwave for 30 seconds and then give it all a good mix.\n
+•	Microwave for another 30 seconds and mix till its nice and smooth. Add about 1/2 tbsp of water if needed to thin it out a bit.\n
+•	Chop the spring onion green and add to the dip and mix well.\n
+•	Serve the wings and dip together.\n
+
+    </string>
+
+    <string name="t4">KETO CHICKEN SALAD</string>
+    <string name="i4">
+        2 Boneless and Skinless Chicken Thighs\n
+1 Box/Bag Ready to eat salad mix\n
+1/2 Tsp Black Sesame Seeds\n
+1/2 Tsp White Sesame Seeds\n
+1 Tsp Curry Powder\n
+1/2 Tbsp Extra Virgin Olive Oil\n
+1 Tbsp Peanut Butter (Natural and with no added sugar)\n
+1 Tbsp Water\n
+1 Tsp Soya Sauce\n
+1 Tsp Lemon Juice\n
+ Stevia to taste\n
+ Salt and Pepper to taste\n
+ Coriander for Garnish\n
+2 Tsp Avocado Oil (for frying)\n
+
+    </string>
+    <string name="r4">
+        •	Place some cling flim/plastic wrap over the chicken thighs and beat them with the flat side of a meat mallet till they are nice and even. Season on both sides with salt, pepper and curry powder.\n
+•	Heat the avocado oil in a skillet and once smoking hot add the chicken and fry for about 3 minutes on each side till golden brown and fully cooked. Then set it aside on a plate to rest.\n
+•	To make the dressing microwave the peanut butter and water for 30 seconds and then whisk till you get a nice runny mixture. Add in the soya sauce, lemon juice, olive oil, stevia and salt and pepper and mix well. Also add in the resting juices from the chicken.\n
+•	Now please note, all stevia has a different level of sweetness so you want to add about 1/2 tsp equal of sugar. So with erythritol its normally 1:1 ratio as sugar so youd use 1/2 tsp of erythritol if you use that instead of stevia.\n
+•	To assemble the salad just open up your mixed salad bag. You can alternatively just chop some lettuce, cabbage, baby spinach and a few cherry tomatoes to make your own mix. Pour over the dressing and then the black and white sesame seeds.\n
+•	Chop the chicken and add that on the salad and finish with some coriander.\n
+
+    </string>
+
+    <string name="t5">BEEF FRIED RICE</string>
+    <string name="i5">
+        Beef undercut 200 gm (cut into small pieces)\n
+Rice 2 cups\n
+Capsicum 1 (sliced)\n
+Carrot 1 (sliced)\n
+Garlic cloves 4 to 5 (chopped)\n
+Eggs 3\n
+Worcestershire sauce 2 tbsp\n
+Black pepper to taste\n
+White pepper 1/4 tsp\n
+Salt to taste\n
+Oil as required\n
+Shallots for garnishing 2 (thinly sliced)\n
+
+    </string>
+    <string name="r5">
+        •	Boil rice in salted water, sieve and set aside.\n
+•	Season eggs with salt and pepper, make scrambled eggs and keep aside.\n
+•	Season beef with salt and pepper and cook in a large wok till done.\n
+•	Add all the vegetables in beef and cook for 4 to 5 minutes.\n
+•	Add the boiled rice, Worcestershire sauce, scrambled eggs, salt and pepper to taste and the remaining spices.\n
+•	Cook over high flame for 3 to 4 minutes.\n
+•	The tasty Beef Fried Rice is ready.\n
+•	Mix in shallots and serve\n
+
+    </string>
+
+    <string name="t6">KETO GROUND BEEF</string>
+    <string name="i6">
+        500 grams Ground Beef try and use 80/20\n
+        200 grams HKs Keto Marinara Sauce You can also buy store bought sauce\n
+        4 Tbsp Sour Cream 1 Tbsp per serving\n
+        1 Tbsp Avocado Oil\n
+        Salt and Pepper to taste\n
+
+    </string>
+    <string name="r6">
+        •	Heat some avocado oil in a pan and once its smoking hot add the ground beef and mix well. You want to break up big chunks of meat so you get small granules.\n
+•	Season with salt and pepper and cook till the meat releases its juices and those cook out. Once the meat starts getting some colour add the marinara sauce and cook for a couple of minutes.\n
+•	Add water if you want it more soupy else cook out the liquid. Serve with a dollop of sour cream.\n
+
+    </string>
+
+    <string name="t7">DRY BEEF CHILLI</string>
+    <string name="i7">
+        Beef undercut 1, 1/2 kg (cut into large pieces, frozen for 1-2 hours)\n
+Green chillies 15 (sliced thinly, lengthwise)\n
+Garlic 8, cloves peeled and crushed\n
+Black pepper 1 tsp, crushed\n
+White pepper 1 tsp, powdered\n
+Sugar 1 tsp\n
+White flour (chicken) 1 tsp\n
+Corn flour 1 tsp\n
+Soya sauce 2 tbsp\n
+White vinegar 2 tbsp\n
+Salt to taste\n
+Sesame seed oil (Chinese) few drops\n
+Oil 4 tbsp\n
+
+    </string>
+    <string name="r7">
+        •	Remove meat from freezer and cut into thin slices.\n
+•	Marinate the meat in a mixture of all ingredients except the oil and green chillies and leave for an hour.\n
+•	Just before serving, heat oil in a wok till very hot and stir fry the meat.\n
+•	In a separate pan stir-fry the green chillies and add to meat.\n
+•	Sprinkle the sesame oil on top and serve hot.\n
+
+    </string>
+
+    <string name="t8">EGG FRIED RICE</string>
+    <string name="i8">
+        Basmati Rice 1 kg (washed and soaked for 20 minutes)\n
+Eggs 4 (whisk with a pinch of yellow color)\n
+Spring onions 1 cup (finely sliced tops or green leaves)\n
+Carrots 3 (finely sliced)\n
+Bell pepper 2 (finely sliced)\n
+Garlic water/essence 2 tbsp\n
+Soya sauce 2 tbsp\n
+White vinegar 1 tbsp\n
+Black pepper ½ tsp (ground)\n
+Sugar 1 tsp\n
+Ajinomoto ½ tsp (Chinese Salt)\n
+Salt To taste\n
+Cinnamon 1 piece roasted and ground\n
+Oil 1 cup\n
+Sesame oil a few drops\n
+
+    </string>
+    <string name="r8">
+        •	Boil water in cooking pan then add rice, 1 tbsp salt and vinegar. Boil rice until 80% done then drain the water and simmer rice on slow heat on five minutes.\n
+•	Remove rice from heat and spread in wide dish.\n
+•	When you wish to serve, add the oil to a wok or pot and heat.\n
+•	Add the garlic water/essence then the eggs and stir it quickly.\n
+•	Add the soy sauce, black pepper, bell pepper, carrots and green onions.\n
+•	Then stir fry for five minutes and add in the rice.\n
+•	Add in the sugar, a bit of the soya rice and ajinomoto and toss gently with two spoons.\n
+•	The Egg Fried Rice is ready. Add a few drops of sesame oil on top.\n
+•	Serve with Chicken Chilies or Beef Chilies.\n
+
+    </string>
+
+    <string name="t9">EGG PARATHA</string>
+    <string name="i9">
+        Flour dough for 2 parathas\n
+Eggs 2\n
+Onion 1 (chopped)\n
+Green chilies 3 (chopped)\n
+Green coriander 2 tbsp\n
+Cumin powder ½ tsp\n
+Red chili powder ½ tsp\n
+Salt to taste\n
+ Ghee as required\n
+
+
+    </string>
+    <string name="r9">
+        •	Mix egg, onion, green chilies, green coriander and all spices in a bowl.\n
+•	Make a paratha; put on Tawa then flip the side and pour half egg mixture on top of paratha with a little ghee.\n
+•	Now turns the side and fry from another side with ghee.\n
+•	In the same way, make another paratha.\n
+•	Serve hot egg paratha.\n
+
+
+    </string>
+
+    <string name="t10">OMELET</string>
+    <string name="i10">
+        Eggs 2\n
+Capsicum 1\n
+Soya sauce 1 tbsp\n
+Black pepper 1 tsp\n
+Green onions, chopped\n
+Salt to taste\n
+Oil for frying\n
+
+    </string>
+    <string name="r10">
+        •	Beat eggs and add salt, pepper, soya sauce, green onions and capsicum.\n
+•	Heat oil in a frying-pan, add the egg mixture and cook slowly.\n
+•	As the omelette cooks, turn over to cook the other side.\n
+•	Fold and serve hot.\n
+
+    </string>
+
+    <string name="t11">CRISPY FRIED FISH</string>
+    <string name="i11">
+        Fish fillet½ kg\n
+Garlic paste1 tbsp\n
+Lemon juice2 tbsp\n
+Rice flour125 gm\n
+Egg1\n
+Crushed cumin seeds1 tsp\n
+All spice powder½ tsp\n
+Turmeric1 tsp\n
+Crushed red pepper1 tsp\n
+Saltto taste\n
+Oilfor fry\n
+
+    </string>
+    <string name="r11">
+        •	Cut ½ kg fish into small cubes and put in a bowl.\n
+•	Marinate with 1 tbsp garlic paste, 2 tbsp lemon juice, 1 tsp crushed cumin, ½ tsp all spice powder, 1 tsp turmeric, 1 tsp crushed red pepper and salt to taste.\n
+•	Lastly add 1 egg and 125 gm rice flour. Coat very well and then deep fry till golden brown. Your yummy crispy fried fish recipe is ready to serve.\n
+
+    </string>
+
+    <string name="t12">FRIED FISH </string>
+    <string name="i12">
+        Fish fillets 500 gm cut in long pieces\n
+Lemons 2\n
+Garlic paste 1 tsp\n
+Coriander seeds 1 tsp crushed\n
+Crushed red chilies 1 tbsp\n
+Rice flour 2 tbsp\n
+Turmeric powder 1/2 tsp\n
+Egg 1\n
+Ginger 1 tbsp chopped\n
+Cumin seeds 1 tsp crushed\n
+All spices powder 1 tsp\n
+Salt to taste\n
+Oil for frying\n
+
+    </string>
+    <string name="r12">
+        •	Put fish fillets in bowl and add garlic paste and chopped ginger in it.\n
+•	Beat egg and add salt, chilies, turmeric powder, all spices, crushed coriander and cumin seeds in it mix it well.\n
+•	Add lemon juice in the fish and put the fish in an egg mixture.\n
+•	Now add rice flour in it and mix it with your hands.\n
+•	Now add and mix few drops of oil in the mixture.\n
+•	Then fry it in hot oil till its golden brown.\n
+
+    </string>
+
+    <string name="t13">TIKKA FISH FRY</string>
+    <string name="i13">
+        Fish slices 650 Grams\n
+Ginger garlic paste 1½ tbsp\n
+Lemon juice 2 tbs\n
+Red chili powder 1 tsp\n
+Red chili flakes 1 tsp\n
+Turmeric powder ½ tsp\n
+All spices powder ½ tsp\n
+Chopped red chili 1 tsp\n
+Tikka masala1 ½ tbsp\n
+Salt to taste\n
+Gram flour 2 tbsp\n
+Soda 1 pinch\n
+Oil for frying\n
+Onion slice for garnishing\n
+Rice flour 1 tbsp\n
+Water as required\n
+Cucumber slices for garnishing\n
+Onion rings for garnishing\n
+Lemon slices for garnishing\n
+Carrot slices for garnishing\n
+
+    </string>
+    <string name="r13">
+        •   Wash fish and dry well .\n
+•	Then except oil all ingredients mix in fish then leave for 15 minutes then heat oil and fry shallow .\n
+•	Finally serve with onion slices and lemon slices .\n
+
+    </string>
+
+    <string name="t14">CHICKEN FAJITHA PASTA RECIPE</string>
+    <string name="i14">
+        Tikka boti ½ packet\n
+Red bell pepper 1 sliced\n
+Capsicum 1 sliced\n
+Onion 1 sliced\n
+Salt 1 tsp\n
+Black pepper 1 tsp\n
+Crushed red pepper 1 tsp\n
+Cumin roasted and crushed 1 ½ tsp\n
+Garlic powder 1 ½ tsp\n
+Oil ¼ cup\n
+Milk 4 cups\n
+Cream 2 cups\n
+Pan pasta boiled 3 cups\n
+Cheddar cheese 1 cup\n
+Parsley finely chopped 2 tbsp\n
+Garlic 1 tbsp crushed\n
+
+    </string>
+    <string name="r14">
+        •	Heat oil add garlic fry for 1 min, add tikka boti, all the veggies, cook for 5 mins.\n
+•	Then add seasonings with milk and cream, add pasta, cook till thick and bubbly.\n
+•	Then add cheese and cook till cheese melts, remove and serve immediately.\n
+
+    </string>
+
+    <string name="t15">ORIENTAL CHICKEN PASTA</string>
+    <string name="i15">
+        Pasta1 packet\n
+Chicken ½ kg\n
+Carrot chopped  2\n
+Mushrooms 1 cup\n
+Chicken stock 1 cup\n
+Tomato ketchup ½ cup\n
+Chopped garlic1 tsp\n
+Chopped ginger1 tsp\n
+Crushed red pepper1 tsp\n
+Sesame oil 1 tsp\n
+Salt ½ tsp\n
+Corn flour 1 tbsp\n
+Vinegar1 tbsp\n
+Salt1 tsp\n
+Oil 1 tbsp\n
+Soy sauce 3 tbsp\n
+Oil 1 tsp\n
+Oil3 tbsp\n
+Green coriander ½ bunch\n
+Red chili 3\n
+Green chili 1\n
+Corn flour 1 tsp\n
+
+    </string>
+    <string name="r15">
+        •	Boil pasta in a pan with oil and salt.\n
+•	Heat oil in a pan, add chopped garlic and fry well.\n
+•	Now add chopped ginger with chicken and fry well.\n
+•	Add mushrooms and chopped carrots, fry for 1 minute.\n
+•	Now add stock, soya sauce, tomato ketchup, sesame oil, salt, crushed red pepper, and vinegar.\n
+•	Thickens the mixture with cornflour mixed in 2 tbsp water.\n
+•	Lastly, serve it on top of boiled pasta and serve.\n
+
+    </string>
+
+    <string name="t16">BANANA SESAME PANCAKES</string>
+    <string name="i16">
+        For The Batter\n
+1 peeled ripe banana\n
+1/2 cup soya milk (unsweetened)\n
+2 tbsp sugar\n
+2 tbsp whole wheat flour (gehun ka atta)\n
+2 tbsp ragi (nachni / red millet) flour\n
+Other Ingredients\n
+1 tsp oil for brushing\n
+4 tsp sesame seeds (til)\n
+To Serve\n
+4 tsp honey (optional)\n
+
+    </string>
+    <string name="r16">
+        •	Slightly mash the banana and add soya milk and sugar to it. Blend in a mixer till smooth and fluffy. Transfer to a bowl and keep aside.\n
+•	Add the wheat flour and ragi flour to it and whisk well till smooth and lump-free. Keep aside.\n
+•	Heat a non-stick pan. Brush it lightly with oil.\n
+•	Pour 2 tablespoonsfuls of the batter and spread it to make a pancake of approx. 100 mm. (4")diameter.\n
+•	Sprinkle 1 teaspoon of sesame seeds on top and cook on both sides till done.\n
+•	Make 3 more pancakes with the remaining batter.\n
+•	Serve hot with honey.\n
+
+    </string>
+
+    <string name="t17">EASY DAIKON SALAD</string>
+    <string name="i17">
+        Two cups julienne cut daikon radish\n
+One teaspoon kosher salt\n
+One tablespoons of seasoned rice vinegar\n
+2 tsp granulated sugar\n
+One teaspoon sweet rice wine (mirin)\n
+OPTIONAL crushed peanuts\n
+
+    </string>
+    <string name="r17">
+        •	Place the daikon inside a colander/mesh strainer on the dish or the kitchen sink and sprinkle along with salt. Mix nicely.\n
+•	Let sit for 30 minutes. Squeeze away extra water after which rinse well with cold drinking water. Drain.\n
+
+•	In a little soup pot, mix the actual seasoned rice vinegar, sugar as well as rice wine. Cook over medium heat, mixing continuously, until the sugar dissolves (this will only take a few minutes).\n
+•	Transfer the actual daikon for an air-tight pot and pour the rice vinegar mixture over. Tremble or stir well to combine. Cool for 20 moments before serving.\n
+
+•	This can shop for up to a few days within the refrigerator, whether it endures that lengthy. If preferred, function topped with crushed peanuts.\n
+•	Easy Daikon Salad is ready to serve.\n
+
+    </string>
+
+    <string name="t18">BARLEY AND CORN KACHUMBER</string>
+    <string name="i18">
+        1/4 cup barley (jau)\n
+1/3 cup sweet corn (makai ke dane)\n
+1/2 cup red and yellow capsicum, chopped\n
+1 spring onions with greens, chopped\n
+2 tbsp chopped coriander (dhania)\n
+1 tsp lemon juice\n
+1/2 tsp sugar\n
+1/2 tsp roasted cumin seeds (jeera) powder\n
+salt to taste\n
+
+    </string>
+    <string name="r18">
+        •	Pressure cook the barley and corn with 1 cup of water for 2 whistles. Drain and allow to cool completely.\n
+•	Combine all the ingredients for the salad in a serving bowl and toss well.\n
+•	Chill for at least 2 hours before serving.\n
+•	The discarded barley water can be used for vegetable gravies and dals as it is rich in water-soluble vitamins like B and c.\n
+
+    </string>
+
+
+    <string name="t19">CABBAGE APPLE DELIGHT</string>
+    <string name="i19">
+        1 sliced Red Cabbage (if not available then normal cabbage)\n
+2 meduim sized sliced Apple (Sabe)\n
+1 meduim sized chopped Onion (Pyaj)\n
+1/2 cup Vinegar\n
+4 Pepper corns (Kalimirchi)\n
+1/2 " Cinnamon (Tuj/Dalchini)\n
+2 Cloves (Lavang)\n
+1 tsp Oil\n
+1 tblsp Fine Wheat Flour (Maida)\n
+1/2 Litre Water\n
+Lemon Juice to taste\n
+Salt to taste\n
+Artificial Sweetner to taste\n
+
+    </string>
+    <string name="r19">
+        •	Heat oil in a teflon coated pan.\n
+•	Saute onion for a little while.\n
+•	Add apples and cook for a few minutes.\n
+•	Add sweet n low, cloves, peppercorns, cinnamon, vinegar, salt, lemon juice and water and bring to a boil.\n
+•	Add chopped cabbage, cover and cook on a low flame.\n
+•	When its done, just before serving, add flour, stirring continuously to avoid lumps.\n
+•	Serve immediately\n
+
+    </string>
+
+
+    <string name="t20">Palak Paneer </string>
+    <string name="i20">
+        Spinach leaves – 500 gms (1bunch)\n
+After blanching and squeezing it becomes 130gms\n
+Oil – 1½ tbsp\n
+Butter – 2 tbsp\n
+Cumin – 1 tsp\n
+Garlic chopped – ¾ tbsp\n
+Ginger chopped – ¾ tbsp\n
+Green chilli chopped – 1 no\n
+Onion chopped – 2 tbsp\n
+Cumin powder – ½ tsp\n
+Chilli powder – 1 tsp\n
+Paneer cubes – 20 0 gms\n
+Salt – to taste\n
+Cream – 2-3 tbsp\n
+
+    </string>
+    <string name="r20">
+        •	In a pan, heat water and add palak leaves. Take out after a minute and add to ice cold water.\n
+•	Squeeze the water out. In a mixer, add the palak and some water and blend into a fine puree.\n
+•	In a pan, add some oil and butter. Add cumin, chopped garlic and cook till the garlic browns.\n
+•	Then add green chilli, ginger, chopped onion and cook for 2-3 minutes. Add the palak puree to this.\n
+•	Add paneer and mix it gently.\n
+•	 Cook for 3-4 mins. Remove from heat and add some cream to this. Palak paneer is ready.\n
+
+    </string>
+
+
+    <string name="t21">RajmaCurry</string>
+    <string name="i21">
+        Rajma Beans (Soaked overnight) - 1 cup (approx.)\n
+Butter - 1 tbsp\n
+Cumin powder - 1 tsp\n
+Pounded Ginger, Garlic and Green chili - 1 tsp\n
+Onion - 1 no. (finely chopped)\n
+Turmeric powder - 1/4 tsp\n
+Kashmiri Chili powder - 2 tsp\n
+Coriander powder - 1 tsp\n
+Cumin powder - 1 tsp\n
+Garam Masala - 1 tsp\n
+Tomato puree - 1 cup  (3 tomatoes)\n
+Salt - 1 1/2 tsp\n
+Amchur powder - 1 tsp\n
+Water\n
+Sugar - 1 tsp\n
+Kasuri Methi\n
+
+    </string>
+    <string name="r21">
+        •	Pressure cook the dal till it is soft and keep it aside.\n
+•	Heat butter in a pan. Add cumin seeds, pounded green chili, ginger, garlic and onions\n
+•	Saute the onions till they are golden brown and add turmeric powder, chili powder, cumin powder, coriander powder and garam masala\n
+•	Mix well and add the tomato puree and cook it for about 7 minutes\n
+•	Add the cooked rajma beans and add some water.Then add amchur powder. Close and cook for about 10 minutes\n
+•	Add a teaspoon of sugar to balance out the flavors and finally add kasuri methi\n
+•	Rajma masala is ready to be served hot with some Jeera Rice or Ghee Rice.\n
+
+    </string>
+
+
+    <string name="t22">Beetroot Pasta</string>
+    <string name="i22">
+        •	4 large beets (golden beetroots)\n
+•	300 grams penne pasta (cooked)\n
+•	2 tablespoons fresh herb pesto\n
+•	1/2 cup arugula (ruccola or rocket; washed)\n
+•	2 tablespoons extra-virgin olive oil\n
+•	Dash sea salt\n
+
+    </string>
+    <string name="r22">
+        •	Gather the ingredients.\n
+•	Carefully wash the beetroot under cold running water and pat dry with kitchen paper. Cutaway the leaves making sure you leave at least 2.5 centimetres / 1-inch of the stalk, preferably a little more if you can.\n
+•	Place the beets into a heavy roasting tin. Sprinkle the beetroots sprinkle with the extra-virgin oil and roll the beetroots around in the oil to make sure they all have a coating of the oil.\n
+•	Sprinkle salt and thyme all over the beets and roll again.\n
+•	Pop the roasting tin into the middle of the preheated oven and cook for 40 to 45 minutes or until the beets are soft but not shrunken (which means you left them too long).\n
+•	Remove from the oven and leave to cool. Once cooled, rub the skin away with a piece of kitchen paper and cut away the roots and stalks and discard.\n
+•	Chop the cooked beets into good bite-sized chunks.\n
+•	Place the hot, cooked penne pasta into a warmed, large serving bowl. Add the pesto and stir thoroughly making sure the pasta is coated in the sauce.\n
+•	Add the ruccola/rocket, stir again.\n
+•	Then finally add the cooked beetroot and give the whole dish a really good stir.\n
+•	Drizzle the pasta with the extra virgin olive oil and season with salt and pepper to taste and serve immediately with a fresh green salad and crusty bread.\n
+
+    </string>
+
+
+    <string name="t23">Vegan Coconut Curry</string>
+    <string name="i23">
+        •	1 cup brown rice\n
+•	1 tbsp olive oil\n
+•	1 cup broccoli (or use green beans)\n
+•	1 spring onions\n
+•	1 sweet potato\n
+•	2 carrot\n
+•	½ zucchini\n
+•	2 sticks lemongrass\n
+•	2 tsp curry powder\n
+•	1 tbsp yellow curry paste (or red for hotter, green for hottest!)\n
+•	1 can coconut milk\n
+•	1 can chickpeas (15 oz = 435g, drained and rinsed)\n
+•	1 tbsp maple syrup\n
+•	½ tsp salt\n
+•	1 lemon (juiced; lime works too!)\n
+
+    </string>
+    <string name="r23">
+        •	If serving with rice, get that cooking now according to package instructions.\n
+•	Grate the sweet potato and the carrots.\n
+•	Chop the spring onion, broccoli, and zucchini.\n
+•	Add the olive oil to a large pan and fry all the veg on a medium heat. This needs about 5 to 7 minutes.\n
+•	Next, add the curry powder and curry paste, and the beaten ,smack it with a heavy spoon a few times to let out the flavour, lemongrass.\n
+•	Drain and rinse the chickpeas.\n
+•	Stir and fry for another couple of minutes then add the coconut milk, chickpeas, lemon juice, maple syrup and salt. Let it simmer for another 5 minutes.\n
+•	Alright, thats it. Take out the lemongrass. Serve with rice and top with roasted cashews or peanuts. Easy. Awesome.\n
+
+    </string>
+
+
+    <string name="t24">Chinese Cold Sesame Noodles</string>
+    <string name="i24">
+        •	1-pound rice stick noodles\n
+•	3 tablespoons sesame oil (divided)\n
+•	1 tablespoon peanut butter\n
+•	1 teaspoon water\n
+•	2 teaspoons soy sauce (or tamari for gluten free)\n
+•	1 tablespoon tahini\n
+•	1 tablespoon cooking sherry or rice vinegar\n
+•	1 tablespoon maple syrup\n
+•	1 clove garlic (minced)\n
+•	1/2 teaspoon fresh ginger (minced or grated)\n
+•	3 green onions (sliced)\n
+
+    </string>
+    <string name="r24">
+        •	Gather the ingredients.\n
+•	Cook noodles in water for just a few minutes, so they are just beginning to soften but are not yet all the way cooked. Drain.\n
+•	In a large skillet, fry the noodles in 2 tablespoons of sesame oil, stirring frequently. Allow to cook for 3 to 5 minutes, or until noodles are soft. Remove from heat.\n
+•	In a large bowl or blender, whisk or blend together the 1 tablespoon of sesame oil, peanut butter, water, soy sauce (or tamari), tahini, sherry or rice vinegar, maple syrup, garlic and ginger.\n
+•	Toss this mixture with the noodles.\n
+
+    </string>
+
+
+    <string name="t25">Chinese-Style Barbecued Pork </string>
+    <string name="i25">
+        •	1 1/2 pounds pork tenderloin (shoulder or butt)\n
+•	2 cloves garlic (peeled and mashed)\n
+•	2 tablespoons Chinese rice wine (or dry sherry)\n
+•	2 tablespoons hoisin sauce\n
+•	2 tablespoons ketchup\n
+•	1 1/2 tablespoons soy sauce\n
+•	1 tablespoon liquid honey\n
+•	2 teaspoons brown sugar\n
+•	1/4 teaspoon five-spice powder\n
+•	Optional: a few drops red food coloring\n
+
+    </string>
+    <string name="r25">
+        •	Gather the ingredients.\n
+•	Cut the pork into strips approximately 2 inches wide and 5 inches long.\n
+•	Smash and peel the garlic, and mash it with a mortar and pestle or with a fork.\n
+•	In a medium bowl, whisk together the rice wine or sherry, hoisin sauce, ketchup, soy sauce, liquid honey, brown sugar, mashed garlic, and five-spice powder.\n
+•	If using the red food coloring, add it now.\n
+•	Place the pork in a shallow 9-inch by 13-inch glass baking dish.\n
+•	Pour the marinade over. Marinate the pork in the refrigerator, covered, for 3 hours.\n
+•	Remove the pork from the dish. Reserve the marinade.\n
+•	Preheat the oven (425 F for pork tenderloin, 350 F for shoulder or butt).\n
+•	Fill a shallow roasting pan with 1/2-inch of water and place in the bottom of the oven. Place the pork on a rack above the water.\n
+•	Roast until golden brown, brushing 2 or 3 times with the reserved marinade (about 30 minutes total roasting time for a tenderloin, 45 minutes total roasting time for shoulder or butt). The internal temperature of the pork should be 160 F.\n
+•	Remove and cool.\n
+•	When the pork is cool enough to handle, cut across the grain into 1/4-inch thick pieces.\n
+•	Serve at room temperature, cold, or use it as the stuffing for steamed buns.\n
+
+    </string>
+
+
+    <string name="t26">Zesty Italian Sausage Pasta Sauce</string>
+    <string name="i26">
+        •	56 oz. canned tomatoes (two 28-oz. cans, whole with liquids)\n
+•	1 1/2 lbs. Italian sausage (fresh)\n
+•	1/2 cup olive oil\n
+•	4 carrots (chopped)\n
+•	1 medium onion (chopped)\n
+•	2 cloves garlic (finely minced)\n
+•	1 tablespoon salt (Kosher, or to taste)\n
+•	2 teaspoon sugar.\n
+
+    </string>
+    <string name="r26">
+        •	In a large, heavy-bottomed saucepan, heat the olive oil for a minute over medium heat.\n
+•	Add the onions and carrots, and sauté for a bit until the onions are translucent but not brown.\n
+•	Add the tomatoes and the garlic. Bring to a simmer and cook for 30 to 45 minutes, uncovered, until the sauce is slightly reduced. If you like, use a wooden spoon to break up the whole tomatoes while the sauce simmers.\n
+•	Meanwhile, slice the Italian sausage and brown it in a separate skillet in a small amount of oil. Remove from heat, drain and set aside.\n
+•	Remove from heat and pass through a food mill or purée in a food processor until smooth, working in batches if necessary.\n
+•	Return the sauce to the pot, add the browned sausage, and simmer for an additional 20 minutes.\n
+•	Season to taste with Kosher salt and sugar, toss with the hot cooked pasta of your choice, and serve right away. A wide pasta like fettuccine would be a good choice.\n
+
+    </string>
+
+
+    <string name="t27">Italian Wedding Soup </string>
+    <string name="i27">
+        •	3 tablespoons of olive oil\n
+•	2 cloves garlic, peeled and finely minced\n
+•	1/4 teaspoon crushed red chili pepper flakes\n
+•	6 cups homemade beef or chicken broth\n
+•	1 onion, peeled and cut in half\n
+•	1 carrot, peeled and diced 1/4 inch\n
+•	1 celery stalk, diced\n
+•	4 sweet Italian sausages, casing removed and discarded and sausage broken into small, 1-inch pieces\n
+•	1 bunch broccoli rabe, washed and roughly chopped\n
+•	1 head escarole or chicory, washed and roughly chopped\n
+•	1/2 head savoy cabbage, washed and roughly chopped\n
+•	1 cup Parmigiano-Reggiano or Pecorino Romano cheese, freshly grated.\n
+
+    </string>
+    <string name="r27">
+        •	Gather the ingredients.\n
+•	In a large, deep stockpot, heat the olive oil and garlic over medium heat until the garlic is just fragrant and very lightly colored, about 1 minute. Add the crushed red pepper and simmer for about 30 seconds.\n
+•	Heat oil in pot\n
+•	Add the broth, onion, carrot, celery and sausage pieces, cover, lower the heat to low and simmer for about 20 to 30 minutes. If you happen to have any leftover Parmigiano Reggiano rinds, these would be a great addition to enrich your broth! Throw them in together with the onion, carrot, and celery.\n
+•	Add broth and onion\n
+•	Meanwhile, blanch the chopped greens in abundant salted boiling water, 1 to 2 minutes, then drain well. This eliminates the excess bitterness.\n
+•	Blanch chopped greens\n
+•	Remove the onion, carrot, and celery from the broth and discard ,discard any cheese rinds at this point also, if youre using them. Transfer the blanched greens into the broth and let simmer for another 20 to 30 minutes, or until the greens are tender and the broth is rich and savoury.\n
+
+    </string>
+
+
+    <string name="t28">Easy French Onion Soup</string>
+    <string name="i28">
+        •	3 tablespoons unsalted butter\n
+•	4 medium onions sliced into 1/4-inch lengthwise pieces (about 6 cups)\n
+•	2 (10 1/2-ounce) cans condensed beef broth\n
+•	2 cans water (about 2 3/4 cups)\n
+•	4 slices French bread (approximately 1 inch thick)\n
+•	1/2 cup coarsely grated Gruyere cheese, more for serving\n
+•	Garnish: Chives, sliced\n
+
+    </string>
+    <string name="r28">
+        •	Gather the ingredients.\n
+•	In a large non-stick skillet or saute pan over medium-low heat, melt the butter. Sauté the sliced onions for about 30 to 45 minutes, or until very soft and golden brown in color. Stir them frequently. If they are browning too quickly or scorching, turn the heat to low. It takes time to get that sweet caramelization, so dont try to rush it.\n
+•	In a medium saucepan or Dutch oven, combine the beef broth with the cooked onion and bring to a boil. Reduce the heat to low and cover the pan. Simmer for 25 to 30 minutes.\n
+•	Meanwhile, position a rack 4-inches from the broiler. Heat the broiler and place the bread on a foil-lined baking sheet. Toast until golden, 30 to 45 seconds.\n
+•	Remove from the oven, flip the bread, and divide the cheese between the slices. Return to the oven and broil until the cheese is melted, 20 to 30 seconds.\n
+•	To serve, pour the onion soup into four individual soup bowls. Float a slice of toasted French bread, cheese side up, in each bowl and sprinkle with extra cheese. Garnish with chives, if using.\n
+•	Serve and enjoy!\n
+
+    </string>
+
+
+    <string name="t29">Chicken French</string>
+    <string name="i29">
+        For the Chicken:\n
+•	1 1/2 lb. boneless, skinless chicken breast (sliced or pounded-out, into 1/4-in thick pieces)\n
+•	4 eggs, plus 2 tablespoon milk (beaten)\n
+•	1 cup flour\n
+•	1 tablespoon salt\n
+•	1 teaspoon black pepper\n
+•	Cayenne to taste\n
+•	2 tablespoons olive oil, plus 1 tablespoon butter (for sautéing)\n
+For the Sauce:\n
+•	Juice of 2 lemons\n
+•	1/2 cup good white wine or dry sherry\n
+•	1 cup vegetable broth or chicken stock\n
+•	4 tablespoons cold butter (cut into cubes)\n
+•	1 tablespoon chopped Italian parsley\n
+•	Salt and fresh ground black pepper (to taste)\n
+
+    </string>
+    <string name="r29">
+        •	Season chicken pieces on both sides with salt and fresh ground black pepper. Place the flour, salt, pepper, and cayenne in a baking dish and mix well.\n
+•	Combine the beaten eggs and milk in another dish. Dredge the chicken, one at a time, in the flour to coat both sides and then transfer into the dish of eggs. Turn the chicken in the egg to coat both sides, and leave in the egg.\n
+•	Once all the chicken is floured and transferred into the dish of eggs, place in the refrigerator until needed. In a large non-stick skillet, melt the butter in the olive oil over med-low heat, until it begins to sizzle slightly. Lift the chicken pieces out of the egg mixture, allowing the excess to drip off, and sauté for 2 to 3 minutes per side until golden brown. Cook in batches and keep warm in a very low oven.\n
+•	When all the chicken is cooked, add the lemon juice, wine, and broth to the pan. Bring to a boil over high heat until reduced by half. Turn off the pan, and add the parsley and cold butter to the pan. Whisk until the butter melts. Taste for salt and pepper, and adjust.\n
+•	Place the chicken on warm plates and spoon over the sauce. Serve immediately.\n
+
+    </string>
+
+
+    <string name="t30">Japanese Rice Balls</string>
+    <string name="i30">
+        •	1 to 2 sheets dried nori seaweed, optional\n
+•	4 cups steamed Japanese rice (sushi rice)\n
+•	Kosher salt, to taste\n
+•	1-ounce black sesame seeds, optional\n
+For the Fillings:\n
+•	1 umeboshi, optional\n
+•	1 fillet salmon, optional\n
+
+    </string>
+    <string name="r30">
+        •	Gather the ingredients.\n
+•	Cut each nori sheet (if using) into 8 or 9 strips and put about a 1/2 cup of steamed rice in a rice bowl.\n
+•	Wet your hands with water so that the rice wont stick.\n
+•	Rub some salt on your wet hands.\n
+•	Place the steamed rice in your hand and form into a triangle, making sure it is dense and thick.\n
+
+•	Put your favourite filling, such as umeboshi or grilled salmon, on the rice and push the filling into the rice lightly.\n
+•	Hold the rice between your palms.\n
+•	Form the rice into a round, a triangle, or a cylinder by pressing lightly with both palms, securing the filling in the middle. Roll the rice ball in your hands a few times, pressing lightly.\n
+•	Wrap the rice ball with a strip or two of nori (if using), or sprinkle some sesame seeds on them (if using).\n
+
+    </string>
+
+
+    <string name="t31">Japanese Cold Somen Noodles</string>
+    <string name="i31">
+        •	1/4 cup mirin\n
+•	1/4 cup soy sauce\n
+•	1 1/2 cups kombu and katsuobushi dashi\n
+•	3/4- to 1-pound dried somen noodles\n
+For the Toppings:\n
+•	1/2-inch fresh ginger\n
+•	1 medium scallion\n
+•	1/4 cup thinly sliced shiso leaves\n
+•	1/2 inch myoga ginger, thinly sliced\n
+
+    </string>
+    <string name="r31">
+        •	Gather the ingredients.\n
+•	First start by making the dipping sauce: Put mirin in a sauce pan and heat.\n
+•	Add soy sauce and dashi soup stock to the pan and bring to a boil.\n
+•	Remove from heat and cool the sauce.\n
+•	Once you have the dipping sauce completed, boil water in a large pan.\n
+•	Add dried somen noodles in the boiling water, gently stirring noodles with chopsticks, and cook for a few minutes—approximately 2 to 3 minutes—until done. (If its necessary, add a little bit of cold water in the pan to prevent overflowing.)\n
+
+•	Drain the somen in a colander and cool them under running water or in an ice bath.\n
+•	Wash the noodles with hands under running water. (If the noodles were tied, find the knotted parts of somen noodles and pick them up. Cut off the edge and discard.)\n
+•	Serve drained cold somen in a large serving bowl, dipping sauce in individual cups, and place some toppings, such as grated ginger, scallions, strips of shiso leaves, and myoga on the side.\n
+
+    </string>
+
+
+    <string name="t32">SEA FOOD RISOTTO</string>
+    <string name="i32">
+        •	4 cups seafood stock (or fish stock, clam juice, or vegetable stock)\n
+•	3 tablespoons unsalted butter (divided)\n
+•	1/2 cup minced shallots\n
+•	1 cup arborio rice (or carnaroli)\n
+•	1 teaspoon minced garlic\n
+•	2/3 cup dry white wine\n
+•	1 teaspoon finely grated lemon zest, optional\n
+•	1/2 teaspoon kosher salt, or to taste\n
+•	1/4 teaspoon freshly ground black pepper, or to taste\n
+•	1/2 pound bay scallops (or sea scallops, quartered)\n
+•	1/2 pound medium to large shrimp (peeled and deveined)\n
+•	1/2 pound mussels (about 12, cooked and shucked)\n
+•	1/3 cup grated Parmesan cheese (plus more for serving)\n
+•	2 tablespoons fresh chopped parsley\n
+•	1 tablespoon chopped chives (or more chopped parsley), garnish\n
+
+    </string>
+    <string name="r32">
+        1.	Gather the ingredients.\n
+2.	Put the seafood stock in a saucepan and bring to a low simmer. Keep warm\n
+3.	Melt 2 tablespoons of butter in a large saucepan or sauté pan over medium heat. Add the shallots and cook for about 4 to 5 minutes, or until they are softened.\n
+4.	Add the rice and garlic to the shallots and cook, stirring, for 1 minute.\n
+5.	Add the wine and continue to cook, stirring, until it is almost completely absorbed.\n
+6.	Add about 1 cup of the seafood stock and continue to cook, stirring constantly, until it is nearly absorbed. Continue adding stock, about 1/2 cup or ladleful at a time, stirring constantly until each addition is nearly absorbed. When the rice is al dente and creamy, taste and then add the lemon zest (if using) and season with salt and pepper as needed.\n
+7.	Add the scallops and shrimp to the rice mixture. Continue to cook for about 5 minutes, or until the seafood is cooked. Add the cooked mussels, Parmesan cheese, the remaining 1 tablespoon of butter, and parsley. Cook, stirring, until hot.\n
+8.	Serve with a garnish of chopped chives or fresh chopped parsley and extra Parmesan cheese, if desired.\n
+
+    </string>
+
+
+    <string name="t33">SALMON WITH CRANBERRY SAUCE</string>
+    <string name="i33">
+        6 (5- to 6-ounce) center-cut salmon fillets\n
+2 tablespoons lemon juice\n
+2 tablespoons butter (melted)\n
+1/4 teaspoon salt\n
+1/8 teaspoon white pepper\n
+For the Sauce:\n
+1 tablespoon butter\n
+1 onion (finely chopped)\n
+3 cups fresh cranberries\n
+1/2 cup brown sugar\n
+1/4 cup granulated sugar\n
+1 cup red currant jelly\n
+3/4 cup orange juice\n
+2 tablespoons lemon juice\n
+    </string>
+    <string name="r33">
+        1.	Place the salmon fillets on a broiler rack that has been sprayed with nonstick cooking spray.\n
+2.	In a small bowl, combine the lemon juice, melted butter, salt, and pepper. Brush the mixture over the salmon and set aside.\n
+3.	In a large saucepan, melt the butter over medium heat. Add the onion; cook and stir until tender, 6 to 7 minutes.\n
+4.	Add the cranberries, brown sugar, granulated sugar, currant jelly, orange juice, and lemon juice to the onion mixture in the saucepan. Bring to a boil over high heat, then reduce the heat to low.\n
+5.	Simmer the sauce for 15 to 20 minutes until the cranberries pop and the sauce thickens. Remove from the heat.\n
+6.	Preheat the broiler.\n
+7.	Broil the salmon 4 to 5 inches from the heat for 8 to 10 minutes, or until the fish flakes when a fork is inserted into the flesh and twisted.\n
+8.	Serve the fish with a tablespoon or so of sauce spooned on top. Enjoy.\n
+
+    </string>
+
+
+    <string name="t34">BEEF PARTY TACOS</string>
+    <string name="i34">
+        •	1 pound / 45 grams ground beef\n
+•	1 can (8 ounces / 227 grams) diced tomatoes, with liquid\n
+•	2 tablespoons powdered chile pepper (such as ancho or chipotle chile)\n
+•	2 tablespoons dried oregano\n
+•	1 teaspoon garlic powder\n
+•	1 teaspoon onion powder\n
+•	1/2 teaspoon ground cumin\n
+•	1/2 teaspoon salt\n
+•	36 4-inch-diameter corn tortillas or 48 3-inch-diameter corn tortillas*\n
+•	3 tablespoons vegetable oil\n
+•	1 cup shredded cheddar cheese\n
+•	Guacamole or Mexican table sauce(s) of your choice\n
+
+    </string>
+    <string name="r34">
+        1.	Place ground beef into a medium-sized saucepan over medium heat. Brown it, using a potato masher or other utensil to break up the meat into small crumbles. Once the beef is browned, drain off any excess fat.\n
+2.	Add the tomatoes, powdered chile, oregano, garlic and onion powders, and cumin. Bring mixture to a boil, then reduce to a simmer until liquid has evaporated or been absorbed.\n
+3.	Turn your oven to 400 F/204 C so that it can pre-heat.\n
+Use a pastry brush or your fingers to brush each side of the tortilla rounds with a little vegetable oil.\n
+4.	Set tortilla rounds on a metal cookie sheet in a single layer. (You may need 2 cookie sheets for all the pieces to fit without overlapping.) Place a tablespoon of ground beef and a pinch of cheese on each tortilla. Fold over each piece in such a way as to form half-moon-shaped packets with the filling inside. Lightly press tortilla edges together.\n
+5.	Bake your mini tacos for about 10 minutes, until tortillas start to brown. Serve immediately. Offer sour cream, guacamole, basic salsa, and your favorite Mexican table sauce (or more than one!) as a dip/condiment.\n
+
+    </string>
+
+
+    <string name="t35">CHICKEN TIKKA KEBAB</string>
+    <string name="i35">
+        • Chicken Breast/ Boneless Chicken -1 lb (cut into bite size pieces)\n
+• Onion, Colored Bell Peppers, Tomato (diced) - 1 cup (optional)\n
+• Salt - 1 tsp\n
+• Cayenne pepper - 1 tsp\n
+• Chilli flakes - 1/2 tsp\n
+• Ginger garlic paste - 1 tsp\n
+• Coriander powder - 1/2 tsp\n
+• Turmeric - 1/4 tsp\n
+• Yogurt - 1 Cup\n
+• Cashew nuts - 2 tbsp (crushed)\n
+• Lemon -1/2 (juiced)\n
+• Cilantro (finely chopped) - 2 tbsp\n
+• Red color - few drops (optional)\n
+• Oil - 1 tblsp\n
+
+    </string>
+    <string name="r35">
+        1. Mix all the ingredients under marination except chicken and veggies to form a paste.\n
+2. Now add the marination to the chicken pieces and veggies to coat it.\n
+3. Let it marinate for at least 3 hours in the refrigerator (increased marination time gives soft chicken with all masala taste).\n
+4. Take bamboo skewers and soak them in water for 1/2 hour.\n
+5. Preheat oven to 300F.
+6. Grease a baking dish with few drops of olive oil and spread the marinate chicken pieces and veggie pieces on it.\n
+7. Bake it for 10 minutes and flip the chicken pieces and again bake for 10 minutes (to evenly cook the chicken)\n
+8. Now take the baking dish out from oven and place the chicken and veggies in skewers (use paper towel to handle chicken if it’s very hot).\n
+9. Now place the skewers in the oven at 350F for another 10 minutes (this gives the flavor and taste like in tandoori).\n
+10. Now serve the yummy tikka by sprinkling few drops of lemon juice as a snack.\n
+
+    </string>
+
+    <string name="t36">BBQ SPICY CHICKEN KEBAB</string>
+    <string name="i36">
+        Chicken boneless ½ kg\n
+Garlic cloves 2\n
+Black peppercorns 3 – 4\n
+Degi Red chilies 2\n
+Vinegar 1 tsp\n
+Tikka masala 1 tbsp\n
+Ginger garlic paste 1 tbsp\n
+Lemon 2\n
+Black pepper 1 tsp (crushed)\n
+Coriander 1 tbsp (crushed)\n
+Salt to taste\n
+Cumin1 tbsp (crushed)\n
+Oil as required\n
+Onion rings 2\n
+Lemon 1\n
+Mint leaves 1 bunch\n
+Green chilies 2 (chopped)\n
+
+    </string>
+    <string name="r36">
+        •	Boil boneless chicken with garlic cloves and black peppercorns for 5 minutes. Drain the water.\n
+•	Add vinegar in degi red chilies and boil it.\n
+•	Add coriander in boiled chilies and grind it.\n
+•	Mix together chutney paste, tikka masala, ginger garlic paste, lemon juice, cumin, black pepper and some salt.\n
+•	Marinade boiled chicken with the prepared masala and leave for 20 minutes.\n
+•	Heat 4 tbsp oil in pan and stir fry chicken until done.\n
+•	Dish out in platter, garnish with onion rings, lemon, mint leaves and green chilies.\n
+
+    </string>
+
+    <string name="t37">BBQ GRILLED CHICKEN RECIPE </string>
+    <string name="i37">
+        •	1/2 fresh chicken (chopped into small parts) or 4 pieces chicken\n
+•	2 tbsp. soy sauce\n
+•	1 tsp. dark soy sauce (or 1 more tbsp. regular soy sauce)\n
+•	2 tbsp. fish sauce\n
+•	3 tbsp. sherry (cooking sherry works well too)\n
+•	2 tbsp. brown sugar\n
+•	1 tbsp. black peppercorns (crushed with pestle and mortar) or 1 tsp. coarsely-ground black pepper\n
+•	10 cloves garlic (minced)\n
+•	1 red chili (minced, to taste)\n
+•	Dipping Sauce or Glaze:\n
+•	2/3 cup rice vinegar (or another type of vinegar: white, white wine, or apple cider)\n
+•	1/3 cup packed brown sugar\n
+•	4 cloves garlic, minced\n
+•	1 fresh red chili (minced) or 1/3 to 1/2 tsp. dried crushed chili or cayenne pepper\n
+•	1 tbsp. fish sauce\n
+
+    </string>
+    <string name="r37">
+        1.	Combine all marinade ingredients in a bowl and stir well to dissolve the sugar.\n
+2.	Add chicken, turning several times to ensure the chicken is covered and literally bathed in the marinade.  Cover and place in the refrigerator to marinate at least 2 hours, or overnight is even better.\n
+3.	To make the dipping sauce place all the dipping sauce ingredients in a saucepan. Stir and bring to a boil ,the smell will be quite pungent as the vinegar burns off.  Reduce heat slightly to keep it on a gentle boil.  When sauce has reduced to 1by3 and is bubbling all over the surface, remove from heat.  The sauce will thicken as it cools and should taste tangy , a mixture of sweet, sour, salty, and spicy.  Note that its best to make the sauce right before eating, or it will thicken too much.  If this happens, reheat and add a little water.\n
+4.	Brush your grill with a little vegetable oil, then grill the chicken, turning occasionally. Brush the chicken with the leftover marinade for the first ten minutes or so, then discard marinade. If the weather doesnt cooperate, see tip below recipe.\n
+5.	Serve with the dipping sauce on the side, or spoon a little sauce over each piece of chicken as a glaze before serving. This dish goes well with a salad or served with rice.\n
+
+    </string>
+
+
+    <string name="t38">BRUNCH SMOKED SALMON PIE</string>
+    <string name="i38">
+        •	For the Crust:\n
+•	1/2 cup (1 stick) butter (cold)\n
+•	1 1/4 cup all-purpose flour\n
+•	1/2 teaspoon salt\n
+•	3 tablespoons Emmental cheese (grated)\n
+•	3 tablespoons water\n
+•	For the Filling:\n
+•	1 cup smoked salmon (chopped)\n
+•	1/2 cup leeks (white part only, chopped)\n
+•	3 eggs\n
+•	1/2 cup whole milk\n
+•	3/4 cup heavy whipping cream\n
+•	1/3 cup dill (chopped, fresh)\n
+•	1 teaspoon lemon pepper\n
+•	1/2 teaspoon salt\n
+•	3/4 cup cheese Emmental cheese (grated)\n
+
+    </string>
+    <string name="r38">
+        •	Gather the ingredients.\n
+•	Preheat oven to 400 F.\n
+•	In a medium bowl, cut butter into flour and salt until it resembles coarse crumbs.\n
+•	Add grated cheese and water and combine until crust comes together.\n
+•	Roll out crust on a lightly floured surface.\n
+•	Press crust into a 9-inch pie pan, folding and crimping the top edge.\n
+•	Prick crust all over with a fork.\n
+•	Then bake at 400 F for 15 minutes.\n
+•	Place chopped salmon and leek into the prepared pie crust.\n
+•	In a large bowl, whisk together eggs, milk, cream, dill, lemon pepper, and salt.\n
+•	Pour egg mixture over the salmon and leek in the crust.\n
+•	Sprinkle with grated Emmental cheese.\n
+•	Return the pie to the oven and bake for 27 to 30 minutes.\n
+•	Cool at least 15 minutes before cutting and serving\n
+
+    </string>
+
+
+    <string name="t39">STEAK AND EGGS WITH CHIMICHURRI</string>
+    <string name="i39">
+        •	2 tablespoons fresh parsley (chopped)\n
+•	2 tablespoons fresh cilantro (chopped)\n
+•	2 tablespoons olive oil\n
+•	1 tablespoon lime juice (fresh squeezed)\n
+•	1 teaspoon garlic (minced)\n
+•	2 teaspoons salt (divided)\n
+•	1/2 teaspoon crushed red pepper flakes\n
+•	1 (6-ounce) rib-eye steak (or sirloin steak)\n
+•	1 teaspoon ground black pepper\n
+•	2 tablespoons butter (divided)\n
+•	2 large eggs\n
+•	Optional: Hot sauce (for serving)\n
+
+    </string>
+    <string name="r39">
+        •	Make the chimichurri sauce first. Whisk together the fresh parsley, cilantro, olive oil, lime juice, garlic, a teaspoon of the salt, and the crushed red pepper flakes in a small bowl. You can also process this sauce in the food processor for a finer minced sauce. You can do this step up to a day ahead of time. The longer it sits, the more flavorful it will get.\n
+•	Generously salt and pepper both sides of the steak.\n
+•	Heat a cast iron skillet or another heavy-bottomed pan on high heat. Once hot, add a tablespoon of butter to the pan and add the steak. Sear on high heat for 3 minutes. Do not move until the three minutes are up. This will guarantee good color and an even sear.\n
+•	Flip the steak and add the other tablespoon of butter to the pan and crack the two eggs onto the other side of the pan. Generously season the eggs with salt and pepper too. You can fry them in a different pan if you wish.\n
+•	Cook the steak and the eggs another 3 minutes for medium rare. You’ll know the eggs are done when the whites are set and the yolks are still jiggly. Heat for longer if you want a more well done steak. You can also flip the eggs if you like them over easy.\n
+•	Top the steak with the chimichurri sauce and serve with a little hot sauce if you like. Wait a few minutes to allow the steak to rest before slicing. Enjoy!\n
+
+    </string>
+
+
+    <string name="t40">EASY CROCK POT PORK CHILI</string>
+    <string name="i40">
+        •	2 1/2 pounds boneless pork shoulder (or boneless shoulder chops)\n
+•	2 tablespoons vegetable oil\n
+•	1 medium onion\n
+•	1 green bell pepper (small)\n
+•	1 jalapeño (or serrano or another kind of hot chile pepper)\n
+•	1 clove garlic (minced)\n
+•	2 (14 1/2-ounce) cans diced tomatoes in juice\n
+•	1 (16-ounce) can chili beans (undrained)\n
+•	1 (8-ounce) can tomato sauce\n
+•	1/2 cup tomato salsa\n
+•	1 tablespoon chili powder\n
+•	1/4 teaspoon cayenne pepper (or adjust to taste)\n
+•	Salt, to taste\n
+•	Black pepper, to taste\n
+
+    </string>
+    <string name="r40">
+        1.	Cut the pork into 1-inch cubes.\n
+2.	Heat the vegetable oil in a large skillet over medium heat. Add the pork cubes and cook until browned on all sides, stirring and turning frequently.\n
+3.	While the pork is cooking, peel and chop the onion. Remove the seeds from the bell pepper and jalapeño. Chop the bell pepper and mince the jalapeño.\n
+4.	Place the pork in a 5- to 6-quart slow cooker and add the chopped vegetables and minced garlic.\n
+5.	Add the tomatoes, beans, tomato sauce, and salsa, along with the chili powder and cayenne pepper.\n
+6.	Stir until the ingredients are well blended.\n
+7.	Cover and cook on low for 8 to 10 hours.\n
+8.	Taste and adjust the seasonings with salt and pepper as needed.\n
+
+    </string>
+
+
+    <string name="t41">BARBECUED PORK CHOPS OR RIBS</string>
+    <string name="i41">
+        •	6 to 8 pork chops or about 3 slabs of spare ribs (cut into smaller portions)\n
+•	1/4 cup chopped onion\n
+•	1/2 cup chopped celery\n
+•	1 cup ketchup\n
+•	1/2 cup water\n
+•	1/4 cup lemon juice\n
+•	2 tablespoons brown sugar\n
+•	2 tablespoons Worcestershire sauce\n
+•	2 tablespoons vinegar\n
+•	1 tablespoon mustard\n
+•	1/2 teaspoon salt\n
+•	1/4 teaspoon pepper\n
+
+    </string>
+    <string name="r41">
+        1.	Put the pork chops into the crock-pot. If you are using spare ribs, boil or roast them for about 30 minutes to eliminate some of the excess fat. Drain and put them into the crock-pot.\n
+2.	Mix together the onion, celery, ketchup, water, lemon juice, brown sugar, Worcestershire sauce, vinegar, mustard, salt, and pepper until well-blended.\n
+3.	Pour the sauce mixture over the pork chops or ribs.\n
+4.	Cook for 8 to 10 hours until the meat is tender and the barbecue flavor is cooked through.\n
+
+    </string>
+
+
+    <string name="t42">Mizu Yokan Recipe</string>
+    <string name="i42">
+        •	1 stick dried kanten (agar agar), or 2 teaspoons kanten (vegan gelatin) powder\n
+•	Water for soaking kanten (agar agar)\n
+•	1 1/4 cup water\n
+•	1 cup brown sugar\n
+•	3/4 pound/1 1/2 cup anko (sweet azuki red bean paste)1 egg (lightly beaten)\n
+
+    </string>
+    <string name="r42">
+        •	Gather the ingredients.\n
+•	Prepare the gelatin mixture: In a large bowl, soak the dried kanten (agar agar) stick in water for one hour or until softened.\n
+•	Remove kanten from water and squeeze the softened kanten to remove excess water.\n
+•	Using your hands, tear the kanten into small pieces.\n
+•	In a medium pan, add the kanten pieces or kanten powder with 1 1/4 cup of water and bring to a boil, making sure to stir constantly. Turn down the heat to low. Simmer until the kanten dissolves completely. All the while, make sure to stir the kanten and water.\n
+•	Next, add sugar and stir well.\n
+•	Add pre-made sweet red bean paste (anko or koshian). Stir constantly, making sure the bean paste is diluted in the agar agar and water mixture. Continue to simmer until the mixture thickens. Remove from heat.\n
+•	Pour the mixture into a shallow rectangular plastic container. Allow it to cool to room temperature and then store in the refrigerator to chill. The mizu yokan should become firm.\n
+•	Cut the mizu yokan into small blocks and serve chilled.\n
+
+    </string>
+
+
+    <string name="t43">Blueberry Lemonade Pie </string>
+    <string name="i43">
+        •	1 cup fresh blueberries\n
+•	1 can (14 ounces) sweetened condensed milk\n
+•	1 can (6 ounces) frozen lemonade\n
+•	1 tub (8 ounces) whipped topping, regular or "lite," thawed in the refrigerator\n
+•	1 deep dish graham cracker pie crust, homemade or purchased*\n
+
+    </string>
+    <string name="r43">
+        •	Put the blueberries, sweetened condensed milk, and frozen lemonade in a blender container. Blend until well mixed.\n
+•	Pour into a bowl and fold in the whipped topping until well blended.\n
+•	Spoon into the prepared crust.\n
+•	Cover and freeze for at least 4 hours.\n
+•	If frozen solid, take it out of the freezer 5 to 10 minutes before slicing.\n
+
+    </string>
+
+
+    <string name="t44">French Blueberry Pie</string>
+    <string name="i44">
+        •	1 quart plus 1 pint blueberries\n
+•	1/2 cup agave nectar\n
+•	1 teaspoon lemon juice\n
+•	3 tablespoons arrowroot powder dissolved in 2 tablespoons of water\n
+•	1 fully cooked 9" piecrust or 10-11" tart shell\n
+
+    </string>
+    <string name="r44">
+        •	Combine 1 quart berries with agave, lemon, and arrowroot in a stainless steel saucepan.\n
+•	Heat over medium flame until the mixture is bubbling, and the berries start to burst.\n
+•	Stir frequently for another 5 minutes, until filling has thickened. (It will continue to thicken as it cools).\n
+•	Pour filling into pie shell and top with remaining pint of berries. Let cool thoroughly, or chill, as desired.\n
+
+    </string>
+
+
+    <string name="t45">Chinese Almond Float </string>
+    <string name="i45">
+        •	1 envelope unflavoured gelatine (such as Knox)\n
+•	4 tablespoons granulated sugar\n
+•	1 cup boiling water\n
+•	2 teaspoons almond extract (as desired*)\n
+•	1 cup evaporated milk\n
+•	1 cup cold water\n
+•	1 (15 ounces) can fruit cocktail with syrup*\n
+
+    </string>
+    <string name="r45">
+        •	Gather the ingredients.\n
+•	In a medium bowl, combine the gelatine and the sugar, stirring to mix well.\n
+•	Pour the boiling water over the gelatine/sugar mixture, and stir until completely dissolved.\n
+•	Stir in the almond extract, evaporated milk, and the cold water, mixing well.\n
+•	Pour the gelatine into a bowl or serving mild if desired.\n
+•	Chill until firm.\n
+•	To serve, cut the gelatine into 1-inch squares or diamonds and serve with the canned fruit and the syrup from the can. The almond float may be prepared in advance and refrigerated (not frozen) until ready to serve.\n
+•	Enjoy!\n
+
+    </string>
+
+
+    <string name="t46">ROSE SIMPLE SYRUP</string>
+    <string name="i46">
+        •	1/2 cup water\n
+•	2 cups demerara sugar\n
+•	1/2 cup rose water\n
+
+    </string>
+    <string name="r46">
+        •	Gather the ingredients.\n
+•	In a small saucepan, bring the water to a boil.\n
+•	Dissolve the sugar into the boiling water, stirring constantly.\n
+•	Stir in the rose water, reduce the heat, and cover the pan. Allow the syrup to simmer for about 15 minutes. Remove the pan from the heat and allow it to cool while still covered.\n
+•	Pour into a glass bottle with a good seal. Use in your favorite drinks and enjoy.\n
+
+    </string>
+
+
+    <string name="t47">ORIGINAL IRISH COFFEE</string>
+    <string name="i47">
+        •	2 teaspoons packed brown sugar, to taste\n
+•	4 ounces strong hot coffee\n
+•	1 1/2 ounces Irish whiskey\n
+•	1-ounce heavy cream, lightly whipped\n
+
+    </string>
+    <string name="r47">
+        •	Gather the ingredients.\n
+•	Place the brown sugar into a warm Irish coffee glass, mug, or other heatproof glass.\n
+•	Add the coffee and Irish whiskey.\n
+•	Stir until the sugar is dissolved.\n
+•	Float the lightly whipped heavy cream on top by slowly pouring it over the back of a spoon.\n
+•	Do not stir. Instead, drink the Irish coffee through the cream. Enjoy.\n
+
+    </string>
+
+
+    <string name="t48">POMEGRANATE TEQILA SUNRISE MIMOSAS</string>
+    <string name="i48">
+        •	1 bottle prosecco (or other sparkling wine)\n
+•	24 ounces orange juice\n
+•	8 splashes pomegranate juice\n
+•	8 ounces tequila\n
+•	Garnish: orange slices\n
+
+    </string>
+    <string name="r48">
+        •	Cut an orange slice into four small wedges.\n
+•	Fill each champagne flute with 1 oz. of tequila.\n
+•	Pour the champagne or prosecco to about half of the way up the champagne flute.\n
+•	Fill the rest of the glass with orange juice, leaving a little room for the pomegranate juice.\n
+•	Add in the splash of pomegranate juice and the orange garnish and serve!\n
+
+    </string>
+
+
+
+    <string name="t49">FROZEN KAPPA COLADA COCKTAIL</string>
+    <string name="i49">
+        •	2 ounces brandy\n
+•	1-ounce cream of coconut\n
+•	1/2 cup fresh or canned pineapple chunks, plus more for garnish\n
+•	1 tablespoon vanilla ice cream\n
+•	1/2 cup ice\n
+
+    </string>
+    <string name="r49">
+        •	Gather the ingredients.\n
+•	In a blender, add the brandy, cream of coconut, pineapple, ice cream, and ice.\n
+•	Blend until smooth.\n
+•	Pour into a Collins glass.\n
+•	Garnish with a pineapple chunk or maraschino cherry. Serve and enjoy.\n
+
+    </string>
+
+
+
+
+
 </resources>
